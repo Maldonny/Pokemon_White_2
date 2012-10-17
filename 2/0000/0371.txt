@@ -8,15 +8,15 @@ CONFIGURAR GAME SYNC
 TESTAR MICROFONE
 UNOVA LINK
       
-Time: \xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
+Tempo: \xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
 Pokédex: \xf000Ȃ\x0001\x0000
-Badges: \xf000ȁ\x0001\x0000
+Insígnias: \xf000ȁ\x0001\x0000
 \xf000Ā\x0001\x0000
          
       
      
 \xf000ą\x0001\x0000
-Saved Game
+Jogo Salvo
 Key System Settings
 Easy Mode
 Challenge Mode
