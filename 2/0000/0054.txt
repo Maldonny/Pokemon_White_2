@@ -6,15 +6,15 @@
 Criando dados salvos.\xfffeAguarde...
 Olá!\xf000븁\x0000\xfffeBem vindo ao mundo dos Pokémon!\xf000븁\x0000
 Eu sou a Professora Juniper.\xfffeTodos me chamam de Professora Pokémon!\xf000븁\x0000
-É isso mesmo! Este mundo é habitado\xfffpor estranhas criaturas conhecidas\xf000븀\x0000\xfffecomo Pokémon!\xf000븁\x0000
+É isso mesmo! Este mundo é habitado\xfffepor estranhas criaturas conhecidas\xf000븀\x0000\xfffecomo Pokémon!\xf000븁\x0000
 Os Pokémon possuem poderes incríveis.\xfffeEles possuem diversas formas e vivem\xf000븀\x0000\xfffeem muitos lugares diferentes.\xf000븁\x0000\xfffeNós humanos convivemos com os Pokémon!\xfffeTrabalhamos e vivemos juntos,\xf000븀\x0000\xfffecomo uma família.\xf000븁\x0000\xfffeAjudamos uns aos outros em muitas\xfffetarefas da nossa vida.\xf000븁\x0000\xfffeSim, os Pokémon criam fortes laços\xfffede amizade com os treinadores!\xf000븀\x0000\xfffeQuer saber o que eu faço?\xf000븀\x0000\xfffeEu estudo os Pokémon.\xf000븁\x0000
 Já falei muito sobre mim...\xfffeFale um pouco sobre você.\xf000븁\x0000
-Você é um menina?\xfffeOu uma menina?\xf000븁\x0000
+Você é um menino?\xfffeOu uma menina?\xf000븁\x0000
 Você é um menino, certo?\xf000븁\x0000
 Você é uma menina, certo?\xf000븁\x0000
      
      
-Gostaria de saber o seu nome.\xf000븁\x0000\xfffeMe diz, por favor.\xf000븁\x0000
+Gostaria de saber o seu nome.\xf000븁\x0000\xfffeMe diga, por favor.\xf000븁\x0000
 Seu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
 Seu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
 SIM
@@ -31,7 +31,7 @@ Hugh
                                                     
                                                 
 \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeVou te dar um Pokémon.\xfffeTenho certeza que você vai gostar!\xf000븁\x0000
-No momento que você escolher o\xfffePokémon que irá te acompanhar em\xf000븀\x0000\xfffesua jornada, é que a sua história\xf000븀\x0000\xfffevai realmente começar.\xf000븁\x0000\xfffeDurante a sua jornada, você vai\xfffeencontrar muitas pessoas e Pokémon\xf000븀\x0000\xfffecom diferentes personalidades.\xf000븁\x0000\xfffeEspero que você aprenda o que é\xfffeimportante durante a jornada...\xf000븁\x0000\xfffeIsso mesmo! Conheça muitas pessoas\xfffee Pokémon e cresça como pessoa.\xf000븁\x0000\xfffeEsse é o objetivo mais importante\xfffeda sua jornada!\xf000븁\x0000\xfffeVamos conhecer o mundo dos Pokémon!\xf000븁\x0000
+No momento que você escolher o\xfffePokémon que irá te acompanhar em\xf000븀\x0000\xfffesua jornada, é que a sua história\xf000븀\x0000\xfffevai realmente começar.\xf000븁\x0000\xfffeDurante a sua jornada, você vai\xfffeencontrar muitas pessoas e Pokémon\xf000븀\x0000\xfffecom diferentes personalidades.\xf000븁\x0000\xfffeEspero que você aprenda o que é\xfffeimportante durante a jornada...\xf000븁\x0000\xfffeIsso mesmo! Conheça muitas pessoas\xfffee Pokémon, e cresça como pessoa.\xf000븁\x0000\xfffeEsse é o objetivo mais importante\xfffeda sua jornada!\xf000븁\x0000\xfffeVamos conhecer o mundo dos Pokémon!\xf000븁\x0000
                                
                   
                                                                                   
