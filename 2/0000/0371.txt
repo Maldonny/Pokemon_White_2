@@ -29,21 +29,21 @@ Conexão wireless está desativada.\xfffeAtive as conexões wireless nas\xf000�
 Restrição de conexão usando\xfffeo controle dos pais.
 Ativado modo de transmissão de chave\xfffepara alterar o modo de jogo do\xf000븀\x0000\xfffeSistema de Chave da Ligação Unova.\xf000븁\x0000
 Atenção!
-You can enjoy this game to its fullest when\xfffewireless communications are available.\xfffeWhere it's prohibited to use wireless\xfffecommunications, such as airplanes and\xfffehospitals, please set wireless\xfffecommunications to OFF.\xfffeYou can also change this setting\xfffeusing the C-Gear while playing the game.
+Ative as conexões wireless para\xfffeaproveitar melhor o seu jogo.\xfffeDesative essas funções em lugares\xfffeonde é proibido usá-las, como em\xfffeaviões e hospitais.\xfffeLembre-se que você pode ativar ou\xfffedesativar as funções do C-Gear\xfffeenquanto estiver jogando.
 Atenção!
 Já existe um arquivo do jogo salvo.\xfffeSe você iniciar a aventura agora,\xfffenão será possível salvá-la.\xfffeTem certeza que quer iniciar?
 Botão A: Iniciar aventura
 Botão B: Voltar ao menu
 Ativar as conexões do C-Gear?
-Some functions of the C-Gear\xfffewill be restricted. Is that OK?
-The save file will be erased\xfffedue to corruption or damage.
-A Battle Video appears to have been\xfffeerased.
-The Skin data for C-Gear\xfffehas been erased.
-The special data for Battle Test\xfffehas been erased.
-The Musical music data\xfffehas been erased.
-The Skin data for Pokédex\xfffehas been erased.
-Your Hall of Fame data\xfffehas been erased.
-Your Mystery Gift data\xfffehas been erased.
-Your Pokéstar Studios data\xfffehas been erased.
-Your Key System and Memory Link data\xfffehas been erased.
-There's PWT data that appears\xfffeto have been erased.
+Algumas funções do C-Gear ficarão\xfffedesabilitadas. Tem certeza?
+Os dados salvos estão corrompidos\xfffee serão apagados.
+O Vídeo de Batalha foi\xfffeapagado.
+Os dados de aparência do\xfffeC-Gear foram apagados.
+Os dados especiais de Teste de\xfffeBatalha foram apagados.
+Os dados de músicas do Musical\xfffeforam apagados.
+Os dados de aparência da\xfffePokédex foram apagados.
+Seus dados do Salão da Fama\xfffeforam apagados.
+Seus dados de Presentes Misteriosos\xfffeforam apagados.
+Seus dados do Pokéstar Studios\xfffeforam apagados.
+Seus dados do Sistema Chave\xfffeforam apagados.
+Seus dados do Pokémon World\xfffeTournament foram apagados.
