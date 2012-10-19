@@ -119,13 +119,13 @@ I know lots about Pokémon!\xf000븁\x0000\xfffe'Cause I learned so much\xfffeat
 The view of Route 19\xfffefrom the outlook is\xf000븀\x0000\xfffeAspertia City's pride and joy.
 The power of science is amazing!\xf000븁\x0000\xfffeNow you can use communications\xfffeto play with a hundred people\xf000븀\x0000\xfffeat the same time!
 People go on journeys and become adults.\xfffeMaybe I should leave this city, too...
-Sometimes wild Pokémon attack people!\xf000븁\x0000\xfffeBut the ones you befriend, the ones that\xfffestay by your side, are Pokémon, too!
-Your mom's really good at\xfffegetting Pokémon to rest\xf000븀\x0000\xfffeand making them feel better!
-Oh, hi!\xf000븁\x0000\xfffeWhy, Aurea Juniper!\xf000븁\x0000\xfffeIt's been far too long!\xfffeWhat can I do for you?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeWow! A Pokédex...\xfffeFor my child?\xf000븁\x0000\xfffeWhy, that's great! I think a journey\xfffewould be a wonderful experience!\xf000븁\x0000
-What now? She's already here?\xf000븁\x0000\xfffeOh, for Pete's sake.\xfffeYou never change.\xf000븁\x0000\xfffeOnce you've decided on something,\xfffeyou just start going.\xf000븁\x0000\xfffeOK! Bianca, right?\xfffeA big, green hat. Got it.\xf000븁\x0000\xfffeOK!\xfffeNo worries!\xf000븁\x0000
-This is Aspertia City.\xfffeA city that reaches for the sky.
-\xf000Ā\x0001\x0000's House
-Aspertia City Outlook Ahead\xfffeUnova Unfolds before Your Eyes
-Trainers' School\xfffeUnder Construction
-Aspertia City Pokémon Gym\xfffeGym Leader: Cheren\xf000븀\x0000\xfffeThe one who seeks the right path.
-Let's go!
+Pokémon selvagens atacam as pessoas.\xf000븁\x0000\xfffeMas se você ficar amigos deles,\xfffeeles nunca te abandonarão.
+A sua mãe sabe cuidar muito bem\xfffedos Pokémon.\xf000븀\x0000\xfffeEles gostam muito dela!
+Alô, quem é?\xf000븁\x0000\xfffeAh, Aurea Juniper!\xf000븁\x0000\xfffeHá quanto tempo!\xfffeTudo bem com você?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeUau! Você vai dar uma Pokédex\xfffepara o meu bebê?\xf000븁\x0000\xfffeIsso é ótimo! Acho que uma jornada\xfffeé uma experiência maravilhosa!\xf000븁\x0000
+Como? Ela já está vindo?\xf000븁\x0000\xfffePelo amor de Deus.\xfffeVocê não muda mesmo.\xf000븁\x0000\xfffeQuando você coloca algo na cabeça,\xfffenão tem quem te segure.\xf000븁\x0000\xfffeAh, é a Bianca que vai vir?\xfffeCom um chapéu grande e verde. Entendi.\xf000븁\x0000\xfffeTudo bem então!\xfffeNão se preocupe!\xf000븁\x0000
+Essa é a Cidade de Aspertia.\xfffeOnde nasce novos horizontes.
+Casa de \xf000Ā\x0001\x0000
+Mirante da Cidade Aspertia\xfffeToda a Unova diante dos seus olhos
+Escola de Treinadores\xfffeEm Construção
+Ginásio Pokémon da Cidade de Aspertia\xfffeLíder: Cheren\xf000븀\x0000\xfffeAquele que procura a verdade.
+Vamos lá!
