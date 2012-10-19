@@ -1,9 +1,9 @@
-Hi, \xf000Ā\x0001\x0000!\xf000븁\x0000
-\xf000Ā\x0001\x0001: Hey!\xfffeYou get a Pokémon yet?\xf000븁\x0000\xfffeThere aren't any Pokémon Trainers\xfffearound here, and I'm getting bored!\xf000븁\x0000
-What's that?\xf000븁\x0000\xfffe...\xf000븁\x0000
-A person named Bianca is\xfffegiving you a Pokémon? Really?!\xf000븁\x0000
-\xf000Ā\x0001\x0001's Sister: \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeIf you get a Pokémon,\xfffetake really, really good care of it, OK?\xf000븁\x0000
-\xf000Ā\x0001\x0001: Yeah...\xf000븁\x0000
+Oi, \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Ei!\xfffeVocê tem algum Pokémon?\xf000븁\x0000\xfffePor aqui não há nenhum treinador,\xfffeentão eu fico meio entediado.\xf000븁\x0000
+E aí?\xf000븁\x0000\xfffe...\xf000븁\x0000
+Uma menina chamada Bianca te deu\xfffeum Pokémon? Sério?!\xf000븁\x0000
+Irmão de \xf000Ā\x0001\x0001: \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeSe você ganhar um Pokémon,\xfffecuide bem dele, certo?\xf000븁\x0000
+\xf000Ā\x0001\x0001: Isso mesmo...\xf000븁\x0000
 OK! Let's go get your Pokémon!\xf000븁\x0000\xfffeThere's something I have to do!\xf000븁\x0000\xfffeAnd to do that, I need someone\xfffeI can trust besides my partner Pokémon.\xf000븀\x0000\xfffeA person I can trust!\xf000븁\x0000\xfffeThat's right! I'm talking about you!\xfffeYou seem like you've got good instincts!\xf000븁\x0000
 You head on home.\xf000븁\x0000
 OK, big brother!\xf000븁\x0000\xfffeBye-bye, \xf000Ā\x0001\x0000!\xf000븁\x0000
@@ -99,26 +99,26 @@ Cheren: You look like a tough Trainer.\xf000븁\x0000\xfffeUnderstood.\xfffePlea
 Bianca: Being a Gym Leader\xfffeis even harder than I imagined.\xf000븁\x0000
 The next thing is to make it so you\xfffecan use the C-Gear.\xf000븁\x0000\xfffeThe C-Gear is a cool device for\xfffecommunications, such as Infrared\xf000븀\x0000\xfffeConnection or Nintendo Wi-Fi Connection.\xf000븁\x0000
 \xf000Ā\x0001\x0000 obtained\xfffethe \xf000\xff00\x0001\x0001C-Gear\xf000\xff00\x0001\x0000!
-Turn on the C-Gear and\xfffeestablish communications?
-YES
-NO
-Some functions of the C-Gear\xfffewill be restricted. Is that OK?
+Ativa o C-Gear e estabilizar a\xfffeconexão?
+SIM
+NÃO
+Algumas funções do C-Gear ficarão\xfffedesabilitadas. Tem certeza?
 Wireless communications\xfffeare turned OFF.\xf000븁\x0000\xfffeTurn wireless communications\xfffeON in the System Settings.\xf000븀\x0000\xfffeError code: 50699\xf000븁\x0000
 Check this! The C-Gear was activated,\xfffeand that screen showed up!\xf000븁\x0000\xfffeIf you touch the “?" icon in the\xfffebottom-right corner of the\xf000븀\x0000\xfffeC-Gear screen, you can read about\xf000븀\x0000\xfffethe C-Gear.\xf000븁\x0000\xfffeLike, what are you going to do now?\xfffeYou know, there's another Pokémon Gym\xf000븀\x0000\xfffein Virbank City, which is just past\xf000븀\x0000\xfffeFloccesy Town.
 If you want to turn on the C-Gear, touch\xfffethe Power symbol at the bottom right of\xf000븀\x0000\xfffethe C-Gear screen.\xf000븁\x0000\xfffeThen, after turning on the power,\xfffeif you touch the “?" icon in the\xf000븀\x0000\xfffebottom-right corner of the\xf000븀\x0000\xfffeC-Gear screen, you can read about\xf000븀\x0000\xfffethe C-Gear.\xf000븁\x0000\xfffeLike, what are you going to do now?\xfffeYou know, there's another Pokémon Gym\xf000븀\x0000\xfffein Virbank City, which is just past\xf000븀\x0000\xfffeFloccesy Town.
-\xf000Ā\x0001\x0001: Hey! My sis has something\xfffeshe wants to tell you!\xf000븁\x0000
-\xf000Ā\x0001\x0001's Sister: Um...\xfffe\xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeMy Purrloin...\xf000븁\x0000\xfffeIt evolved, but thank you\xfffevery much for finding it!\xf000븁\x0000
-\xf000Ā\x0001\x0001: There's more, right?\xf000븁\x0000
-\xf000Ā\x0001\x0001's Sister: Um...\xfffe\xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeThese days, I've been having\xfffedreams about a Pokémon.\xf000븀\x0000\xfffeA Pokémon called Zoroark.\xf000븁\x0000\xfffeIt was calling your name, \xf000Ā\x0001\x0000!\xf000븁\x0000
-\xf000Ā\x0001\x0001: I don't really get it,\xfffebut I hear that the Zoroark from her\xf000븀\x0000\xfffedreams is on Victory Road!\xf000븁\x0000\xfffeThat's what she wanted to say.\xfffeBe seeing you!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Ei, minha irmãzinha quer\xfffete dizer alguma coisa!\xf000븁\x0000
+Irmã de \xf000Ā\x0001\x0001: Um...\xfffe\xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeMeu Purrloin...\xf000븁\x0000\xfffeEle evoluiu, mas muito obrigado\xfffepor ter achado ele.\xf000븁\x0000
+\xf000Ā\x0001\x0001: Não ia dizer outra coisa?\xf000븁\x0000
+Irmã de \xf000Ā\x0001\x0001: Um...\xfffe\xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeEsses dias, eu sonhei com\xfffeum Pokémon.\xf000븀\x0000\xfffeEle se chama Zoroark.\xf000븁\x0000\xfffeE ele chamava seu nome, \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Eu não entendi muito bem,\xfffemas ouvi falar que o Zoroark dos\xf000븀\x0000\xfffeseus sonhos está na Rota da Vitória!\xf000븁\x0000\xfffeÉ isso que ela quer dizer.\xfffeÉ só isso!\xf000븁\x0000
 Oh! Almost forgot.\xf000븁\x0000\xfffeCongrats on becoming the Champion!\xf000븁\x0000\xfffeI called it!\xfffeYou've got good instincts!\xf000븁\x0000
 Trainers are the ones who\xfffehave their Pokémon partners battle.\xf000븁\x0000\xfffeI hear Gym Leaders are\xfffereally strong Trainers!
-So about the Gym Leader Cheren...\xf000븁\x0000\xfffeA few years ago he traveled all over\xfffethe Unova region with his Pokémon.
-I wish the Trainers' School\xfffewould hurry up and open!\xf000븁\x0000\xfffeThere's so much about\xfffePokémon I want to know!
-I know lots about Pokémon!\xf000븁\x0000\xfffe'Cause I learned so much\xfffeat the Trainers' School!
-The view of Route 19\xfffefrom the outlook is\xf000븀\x0000\xfffeAspertia City's pride and joy.
-The power of science is amazing!\xf000븁\x0000\xfffeNow you can use communications\xfffeto play with a hundred people\xf000븀\x0000\xfffeat the same time!
-People go on journeys and become adults.\xfffeMaybe I should leave this city, too...
+Então, o líder Cheren...\xf000븁\x0000\xfffeEle saiu em uma viagem pela região de\xfffeUnova com todos os seus Pokémon.
+Eu quero estudar na Escola de\xfffeTreinadores!\xf000븁\x0000\xfffeQuero aprender tudo sobre\xfffePokémon!
+Eu sei tudo sobre Pokémon.\xf000븁\x0000\xfffeNa Escola de Treinadores nós\xfffeaprendemos muitas coisas!
+O Mirante é o orgulho da Cidade de\xfffeAspertia. A visão que se extende da\xf000븀\x0000\xfffeRota 19 é impressionante!
+A ciência é mesmo impressionante!\xf000븁\x0000\xfffeHoje em dia é possível se comunicar\xfffecom até cem pessoas de uma vez!\xf000븀\x0000\xfffeE sem usar fios e cabos!
+As pessoas fazem jornadas para\xfffecrescerem. Eu também irei um dia...
 Pokémon selvagens atacam as pessoas.\xf000븁\x0000\xfffeMas se você ficar amigos deles,\xfffeeles nunca te abandonarão.
 A sua mãe sabe cuidar muito bem\xfffedos Pokémon.\xf000븀\x0000\xfffeEles gostam muito dela!
 Alô, quem é?\xf000븁\x0000\xfffeAh, Aurea Juniper!\xf000븁\x0000\xfffeHá quanto tempo!\xfffeTudo bem com você?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeUau! Você vai dar uma Pokédex\xfffepara o meu bebê?\xf000븁\x0000\xfffeIsso é ótimo! Acho que uma jornada\xfffeé uma experiência maravilhosa!\xf000븁\x0000
