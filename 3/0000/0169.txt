@@ -4,44 +4,44 @@ E aí?\xf000븁\x0000\xfffe...\xf000븁\x0000
 Uma menina chamada Bianca te deu\xfffeum Pokémon? Sério?!\xf000븁\x0000
 Irmão de \xf000Ā\x0001\x0001: \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeSe você ganhar um Pokémon,\xfffecuide bem dele, certo?\xf000븁\x0000
 \xf000Ā\x0001\x0001: Isso mesmo...\xf000븁\x0000
-OK! Let's go get your Pokémon!\xf000븁\x0000\xfffeThere's something I have to do!\xf000븁\x0000\xfffeAnd to do that, I need someone\xfffeI can trust besides my partner Pokémon.\xf000븀\x0000\xfffeA person I can trust!\xf000븁\x0000\xfffeThat's right! I'm talking about you!\xfffeYou seem like you've got good instincts!\xf000븁\x0000
-You head on home.\xf000븁\x0000
-OK, big brother!\xf000븁\x0000\xfffeBye-bye, \xf000Ā\x0001\x0000!\xf000븁\x0000
-\xf000Ā\x0001\x0001: All riiight!\xfffeLet's go find that person named Bianca!
+Vamos buscar o seu Pokémon!\xf000븁\x0000\xfffeTenho uma coisa para fazer!\xf000븁\x0000\xfffeE para conseguir fazer, eu preciso de\xfffealguém de confiança e do meu Pokémon.\xf000븀\x0000\xfffeUma pessoa que posso mesmo confiar!\xf000븁\x0000\xfffeSim, estou falando de você!\xfffeVocê parece ser bem esperto(a).\xf000븁\x0000
+Volte para casa.\xf000븁\x0000
+Ótimo, parceiro(a)!\xf000븁\x0000\xfffeAté mais tarde, \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Muuuito bem!\xfffeVamos achar essa tal de Bianca!
                          
-\xf000Ā\x0001\x0001: Still...\xf000븁\x0000\xfffeYou're really lucky to get a Pokémon!
-\xf000Ā\x0001\x0001: Once you get a Pokémon,\xfffeyou leave on a journey right away.\xf000븁\x0000\xfffeWhen you do that, I'm gonna have you\xfffehelp me out!
-\xf000Ā\x0001\x0001: Hurry up already!\xfffeLet's look for that Bianca person!
-\xf000Ā\x0001\x0001: Wait!\xf000븁\x0000\xfffeI was just in the Pokémon Center,\xfffeand there wasn't anyone like that there.\xf000븁\x0000
-\xf000Ā\x0001\x0001: The Trainers' School\xfffewas just finished!\xf000븁\x0000\xfffeNo one is allowed inside until a\xfffeTeacher, or better said, a Gym Leader,\xf000븀\x0000\xfffestarts working there!\xf000븁\x0000
-\xf000Ā\x0001\x0001: That goes to Route 19.\xf000븁\x0000\xfffeIf we don't find Bianca here in town,\xfffeI'll go check it for you!\xf000븁\x0000\xfffe'Cause I already have a Pokémon!\xf000븁\x0000
-\xf000Ā\x0001\x0001: Oh, I get it!\xf000븁\x0000\xfffeThe outlook is Aspertia's\xfffemost famous spot!\xf000븁\x0000\xfffeI'll bet Bianca is up there\xfffelooking at the scenery!\xf000븁\x0000\xfffeC'mon!\xfffeGo get your Pokémon already!\xf000븁\x0000
-\xf000Ā\x0001\x0001: Listen, there's no way\xfffeI got this wrong!
-\xf000Ā\x0001\x0001: Listen, there's no way\xfffeI got this wrong!\xf000븁\x0000
-???: It's sooo pretty!\xf000븁\x0000
-Hey there!\xfffeDon't you agree?\xf000븁\x0000
-Oh!\xfffeMy name is Bianca!\xf000븁\x0000\xfffeI'm the assistant of the\xfffePokémon Professor--Professor Juniper.\xf000븁\x0000\xfffeBy the way, I'm looking for someone.\xfffeDo you know a person named \xf000Ā\x0001\x0000?
-Oh, wait!\xfffeYou're \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWooow! You're ex-act-ly like\xfffewhat I heard!\xf000븁\x0000
-Oh, wait!\xfffeYou're \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWooow! You're ex-act-ly like\xfffewhat I heard!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Eu estava pensando...\xf000븁\x0000\xfffeVocê tem sorte por ganhar um Pokémon!
+\xf000Ā\x0001\x0001: Quando receber o seu Pokémon,\xfffevocê tem que começar logo sua jornada.\xf000븁\x0000\xfffeDepois que você sair, eu vou ter que\xfffearranjar outra pessoa pra me ajudar!
+\xf000Ā\x0001\x0001: Vamos logo!\xfffeTemos que achar a tal Bianca!
+\xf000Ā\x0001\x0001: Só um segundo!\xf000븁\x0000\xfffeEu acabei de ir no Centro Pokémon,\xfffee não havia ninguém diferente.\xf000븁\x0000
+\xf000Ā\x0001\x0001: A Escola de Treinadores\xfffeacabou de ser construída!\xf000븁\x0000\xfffeMas ninguém pode entrar até que\xfffechegue o professor, ou seja, o\xf000븀\x0000\xfffelíder do ginásio!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Por aí é a Rota 19.\xf000븁\x0000\xfffeSe a gente não achar a Bianca na\xfffecidade, eu vou lá com você!\xf000븁\x0000\xfffePorque eu já tenho um Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Ah, é verdade...\xf000븁\x0000\xfffeO Mirante da Cidade de Aspertia\xfffeé um famoso ponto turístico!\xf000븁\x0000\xfffeCom certeza a Bianca deve estar\xfffeaqui admirando a paisagem!\xf000븁\x0000\xfffeBora lá!\xfffeSeu Pokémon está te esperando!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Claro que estou certo!\xfffePode confiar em mim!
+\xf000Ā\x0001\x0001: Tenho certeza que ela\xfffeestá aqui, pode confiar!\xf000븁\x0000
+???: Que lindoooo!\xf000븁\x0000
+Ei!\xfffeNão é muito lindo?\xf000븁\x0000
+Ah!\xfffeMeu nome é Bianca!\xf000븁\x0000\xfffeEu sou a assistente da\xfffeProfessora Juniper.\xf000븁\x0000\xfffeEstou esperando uma pessoa.\xfffeVocê conhece o(a) \xf000Ā\x0001\x0000?
+Oh, espere!\xfffeVocê que é o \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeUaau! Você é e-xa-ta-men-te como\xfffeeu tinha imaginado!\xf000븁\x0000
+Oh, espere!\xfffeVocê que é a \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeUaau! Você é e-xa-ta-men-te como\xfffeeu tinha imaginado!\xf000븁\x0000
                                            
-Bianca: Nice to meet you!\xf000븁\x0000\xfffeI have a really important request\xfffeto ask you!\xf000븁\x0000\xfffeWill you help us complete\xfffethe Pokédex?
-Oh, wow, thanks!\xf000븁\x0000\xfffeYour support will help Professor\xfffeJuniper's research move forward!\xf000븁\x0000\xfffeAnyway, filling up the\xfffePokédex is totally fun!
-N-no way...\xf000븁\x0000\xfffeI-I must have misheard you.\xfffeRight?\xf000븁\x0000\xfffeThis is a very important request.\xf000븁\x0000\xfffeWill you please help us complete\xfffethe Pokédex?
-\xf000Ā\x0001\x0001: See!\xfffeBianca was here, right?\xf000븁\x0000\xfffeNow, c'mon!\xfffeGo and get your Pokémon!
-\xf000Ā\x0001\x0001: See!\xfffeBianca was here, right?\xf000븁\x0000\xfffeNow, c'mon!\xfffeGo and get your Pokémon!\xf000븁\x0000
-Bianca: OK, then!\xf000븁\x0000\xfffeTa-daaa!\xf000븁\x0000\xfffeIn here is the Pokémon\xfffethat will be your partner!\xf000븁\x0000
+Bianca: Prazer em te conhecer!\xf000븁\x0000\xfffeTenho uma coisa muito importante\xfffepara te perguntar.\xf000븁\x0000\xfffeQuer nos ajudar a completar\xfffea Pokédex?
+Oh, era o que eu esperava!\xf000븁\x0000\xfffeSeu apoio ajudará bastante nas\xfffepesquisas da Porfessora!\xf000븁\x0000\xfffeAlém disso, completar a Pokédex é\xfffemuito divertido!
+N-não é possível...\xf000븁\x0000\xfffeD-Devo ter entendido errado.\xfffeTem certeza?\xf000븁\x0000\xfffeVou perguntar outra vez.\xf000븁\x0000\xfffeQuer nos ajudar a completar\xfffea Pokédex?
+\xf000Ā\x0001\x0001: Como assim?\xfffeA Bianca está aqui, certo?\xf000븁\x0000\xfffeEntão, vai lá!\xfffePegue o seu Pokémon!
+\xf000Ā\x0001\x0001: Como assim?\xfffeA Bianca está aqui, certo?\xf000븁\x0000\xfffeEntão, vai lá!\xfffePegue o seu Pokémon!\xf000븁\x0000
+Bianca: Certo, então...\xf000븁\x0000\xfffeTa-daaa!\xf000븁\x0000\xfffeAqui está o Pokémon que será\xfffeo seu parceiro!\xf000븁\x0000
                                               
                                              
                                              
-\xf000봂\x0000The Water-type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
-\xf000봂\x0000The Fire-type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
-\xf000봂\x0000The Grass-type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
-Choose a Pokémon.
-Is this the Pokémon you want?
-Pick this one!
-YES
-NO
-\xf000Ā\x0001\x0000 chose \xf000ā\x0001\x0001!
+\xf000봂\x0000O Pokémon tipo Água\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000O Pokémon tipo Fogo\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000O Pokémon tipo Grama\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+Escolha um Pokémon.
+É este Pokémon que você quer?
+Escolher este!
+SIM
+NÃ
+\xf000Ā\x0001\x0000 escolheu \xf000ā\x0001\x0001!
 Bianca: Oh, wow! You and \xf000ā\x0001\x0002\xfffeare a perfect match!\xf000븁\x0000\xfffeBy the way, would you like to give\xfffea nickname to the Pokémon you chose?
 Bianca: Oh, OK, gotcha.\xfffeYou're not going to give it a nickname.\xf000븁\x0000
 Bianca: \xf000Ă\x0001\x0000!\xfffeIs that the nickname you want?
