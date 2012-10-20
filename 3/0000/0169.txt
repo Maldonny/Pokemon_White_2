@@ -40,7 +40,7 @@ Escolha um Pokémon.
 É este Pokémon que você quer?
 Escolher este!
 SIM
-NÃ
+NÃO
 \xf000Ā\x0001\x0000 escolheu \xf000ā\x0001\x0001!
 Bianca: Oh, wow! You and \xf000ā\x0001\x0002\xfffeare a perfect match!\xf000븁\x0000\xfffeBy the way, would you like to give\xfffea nickname to the Pokémon you chose?
 Bianca: Oh, OK, gotcha.\xfffeYou're not going to give it a nickname.\xf000븁\x0000
