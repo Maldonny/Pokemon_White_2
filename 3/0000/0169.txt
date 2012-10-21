@@ -42,13 +42,13 @@ Escolher este!
 SIM
 NÃO
 \xf000Ā\x0001\x0000 escolheu \xf000ā\x0001\x0001!
-Bianca: Oh, wow! You and \xf000ā\x0001\x0002\xfffeare a perfect match!\xf000븁\x0000\xfffeBy the way, would you like to give\xfffea nickname to the Pokémon you chose?
-Bianca: Oh, OK, gotcha.\xfffeYou're not going to give it a nickname.\xf000븁\x0000
-Bianca: \xf000Ă\x0001\x0000!\xfffeIs that the nickname you want?
-Bianca: \xf000Ă\x0001\x0000!\xfffeThat is such a great name!\xf000븁\x0000
-Bianca: Now you've got your Pokémon,\xfffeso I'll give you this, too--a Pokédex!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received\xfffethe \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
-Bianca: You want to know what it does?\xf000븁\x0000\xfffeThe Pokédex is a high-tech device\xfffethat automatically records the\xf000븀\x0000\xfffePokémon you encounter!\xf000븁\x0000\xfffeSo Professor Juniper wants you to carry\xfffethis Pokédex, visit a lot of places, and\xf000븀\x0000\xfffemeet all the Pokémon in the Unova region!
+Bianca: Uau! Você e o \xf000ā\x0001\x0002\xfffeformam uma dupla perfeita!\xf000븁\x0000\xfffeQuer dar um apelido para o\xfffePokémon que você escolheu?
+Bianca: Oh, tudo bem.\xfffeVocê não deu apelido para ele.\xf000븁\x0000
+Bianca: \xf000Ă\x0001\x0000!\xfffeEste é o apelido que você quer?
+Bianca: \xf000Ă\x0001\x0000!\xfffeFicou muito bom!\xf000븁\x0000
+Bianca: Agora que já tem um Pokémon,\xfffevocê também vai precisar da Pokédex!\xf000븁\x0000
+\xf000Ā\x0001\x0000 recebeu\xfffea \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
+Bianca: Sabe o que ela faz?\xf000븁\x0000\xfffeA Pokédex é um dispositivo que\xfffegrava automaticamente todos os\xf000븀\x0000\xfffePokémon que você encontrar.\xf000븁\x0000\xfffeOu seja, para ajudar a Professora,\xfffevocê deve visitar vários lugares e\xf000븀\x0000\xfffeencontrar os Pokémon de Unova!
 Still, that Professor Juniper!\xf000븁\x0000\xfffeThe normal thing to do is to\xfffeget an OK before sending\xf000븀\x0000\xfffesomeone clear out here, right?
 \xf000Ā\x0001\x0001: Heeey! How long are you\xfffeplanning on keeping me waiting, anyway?\xf000븁\x0000\xfffeHey! What's that?\xf000븁\x0000
 So that's your partner, huh?\xf000븁\x0000\xfffeThat's great!\xf000븁\x0000\xfffeMy sister already said so, but\xfffetake really, really good care\xf000븀\x0000\xfffeof your Pokémon! Got it?\xf000븁\x0000\xfffeWhat's that you're holding there?\xf000븁\x0000
