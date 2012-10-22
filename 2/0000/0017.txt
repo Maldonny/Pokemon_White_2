@@ -150,55 +150,55 @@ Sua equipe está cercada\xfffepor espinhos!
 A equipe adversária está cercada\xfffepor espinhos!
 Os espinhos que cercavam a sua\xfffeequipe desapareceram!
 Os espinhos que cercavam a equipe\xfffeadversária desapareceram!
-Poison spikes were scattered all\xfffearound your team's feet!
-Poison spikes were scattered all\xfffearound the foe's team's feet!
-The poison spikes disappeared\xfffefrom around your team's feet!
-The poison spikes disappeared\xfffefrom around the foe's team's feet!
-Pointed stones float in the air\xfffearound your team!
-Pointed stones float in the air\xfffearound your foe's team!
-The pointed stones disappeared\xfffefrom around your team!
-The pointed stones disappeared\xfffefrom around the foe's team!
-Wide Guard protected your team!
-Wide Guard protected the foe's team!
-Quick Guard protected your team!
-Quick Guard protected the foe's team!
-A rainbow appeared in the sky\xfffeon your team's side!
-A rainbow appeared in the sky\xfffeon the foe's team's side!
-The rainbow on your team's side\xfffedisappeared!
-The rainbow on the foe's team's side\xfffedisappeared!
-A sea of fire enveloped\xfffeyour team!
-A sea of fire enveloped\xfffethe foe's team!
-The sea of fire around your team\xfffedisappeared!
-The sea of fire around the foe's team\xfffedisappeared!
-A swamp enveloped your team!
-A swamp enveloped the\xfffefoe's team!
-The swamp around your team\xfffedisappeared!
-The swamp around the foe's team\xfffedisappeared!
-Your team is too nervous to\xfffeeat Berries!
-The foe's team is too nervous to\xfffeeat Berries!
-It created a bizarre area in which\xfffethe Defense and Sp. Def stats are swapped!
-Wonder Room wore off, and the Defense\xfffeand Sp. Def stats returned to normal!
-It created a bizarre area in which\xfffePokémon's held items lose their effects!
-Magic Room wore off, and the held items'\xfffeeffects returned to normal!
-The \xf000ĉ\x0001\x0000 strengthened\xfffe\xf000ć\x0001\x0001's power!
-The time limit is up!\xfffeThe battle will end!
-The battle is too long.\xfffePlayback canceled.
-Zen Mode triggered!
-Zen Mode ended!
+Sua equipe está cercada\xfffepor espinhos venenosos!
+A equipe adversária está cercada\xfffepor espinhos venenosos!
+Os espinhos venenosos que cercavam\xfffea sua equipe desapareceram!
+Os espinhos venenosos que cercavam\xfffea equipe adversária desapareceram!
+Sua equipe está cercada por\xfffepedras pontiagudas!
+A equipe adversária está cercada\xfffepor pedras pontiagudas!
+As pedras pontiagudas que cercavam a\xfffesua equipe desapareceram!
+As pedras pontiagudas que cercavam a\xfffeequipe adversária desapareceram!
+Wide Guard está protegendo sua equipe!
+Wide Guard protege a equipe adversária!
+Quick Guard protege sua equipe!
+Quick Guard protege a equipe adversária!
+Apareceu um arco-íris em cima\xfffede sua equipe!
+Apareceu um arco-íris em cima\xfffeda equipe adversária!
+O arco-íris em cima de sua\xfffeequipe desapareceu!
+O arco-íris em cima da equipe\xfffeadversária desapareceu!
+Sua equipe foi cercada por\xfffeum mar de fogo!
+A equipe adversária foi cercada\xfffepor um mar de fogo!
+O mar de fogo que cercava a\xfffesua equipe desapareceu!
+O mar de fogo que cercava a equipe\xfffeadversária desapareceu!
+Um pântano cercou a sua equipe!
+Um pântano cercou a equipe\xfffeadversária!
+O pântano que cercava a sua\xfffeequipe desapareceu!
+O pântano que cercava a equipe\xfffeadversária desapareceu!
+Sua equipe está muito nervosa e\xfffenão consegue comer Bagas!
+A equipe adversária está muito nervosa\xfffee não consegue comer Bagas!
+Foi criado um espaço em que a Defesa\xfffee a Defesa Especial são invertidas!
+Os efeitos da Wonder Room acabaram, a\xfffeDefesa e Defesa Esp. voltam ao normal!
+Foi criado um espaço onde os efeitos\xfffedos itens desaparecem!
+Os efeitos da Magic Room sobre os\xfffeitens desapareceram!
+\xf000ĉ\x0001\x0000 aumenta os poderes\xfffede \xf000ć\x0001\x0001!
+O tempo acabou!\xfffeA batalha será encerrada!
+A batalha demorou muito.\xfffeA gravação foi cancelada.
+Modo Zen ativado!
+Modo Zen desativado!
 The two moves are joined!\xfffeIt's a combined move!
-\xf000Č\x0001\x0000 won't obey!
-\xf000Č\x0001\x0000 is\xfffeloafing around!
-\xf000Č\x0001\x0000 turned away!
-\xf000Č\x0001\x0000 pretended\xfffenot to notice!
-\xf000Č\x0001\x0000 ignored orders!
-\xf000Č\x0001\x0000 began to nap!
-\xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
-Automatic center!
-But it's not where this item\xfffecan be used!
-Sky Drop won't let \xf000Č\x0001\x0000 go!
-The match was forfeited.
-(\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
-A wild \xf000ā\x0001\x0000 appeared?!
+\xf000Č\x0001\x0000 não quer obedecer!
+\xf000Č\x0001\x0000 está\xfffeolhando ao redor!
+\xf000Č\x0001\x0000 se virou!
+\xf000Č\x0001\x0000 fingiu que\xfffenão ouviu!
+\xf000Č\x0001\x0000 ignorou as ordens!
+\xf000Č\x0001\x0000 começou a cochilar!
+\xf000Č\x0001\x0000 ignorou as\xfffeordens enquanto dorme!
+Pokémon foi para o centro!
+Este item não pode ser usado\xfffeneste Pokémon!
+Sky Drop não vai deixar \xf000Č\x0001\x0000 ir!
+A partida foi perdida.
+Metronome de (\xf000Ȁ\x0001\x0000) \xf000Ȃ\x0001\x0001: \xf000ć\x0001\x0002
+Um \xf000ā\x0001\x0000 selvagem apareceu?!
 CENA 01
 CENA 02
 CENA 03
