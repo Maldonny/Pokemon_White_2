@@ -185,7 +185,7 @@ O tempo acabou!\xfffeA batalha será encerrada!
 A batalha demorou muito.\xfffeA gravação foi cancelada.
 Modo Zen ativado!
 Modo Zen desativado!
-The two moves are joined!\xfffeIt's a combined move!
+Os dois movimentos estão juntos!\xfffeÉ um movimento combinado!
 \xf000Č\x0001\x0000 não quer obedecer!
 \xf000Č\x0001\x0000 está\xfffeolhando ao redor!
 \xf000Č\x0001\x0000 se virou!
