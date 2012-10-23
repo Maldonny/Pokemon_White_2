@@ -1,14 +1,14 @@
     
 POKÉDEX
 POKÉMON
-BAG
+MOCHILA
     
-SAVE
-OPTIONS
+SALVAR
+OPÇÕES
 
     
 
-RETIRE
+SAIR
              
                    
              
