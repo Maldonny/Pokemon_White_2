@@ -1,15 +1,15 @@
-Welcome to Mystery Gift!
-RECEIVE GIFT
-CHECK THE CARD ALBUM
-QUIT
-The communication channel must be opened\xfffeto receive Mystery Gifts.\xf000븀\x0000\xfffeIs that OK?
-Yes
-No
-Please choose how you want to\xfffereceive your gift.
-GET VIA WIRELESS
-GET VIA NINTENDO WFC
-GET VIA INFRARED
-BACK
+Bem vindo ao Presente Misterioso!
+RECEBER PRESENTE
+VER ALBUM DE CARTÕES
+SAIR
+É necessário ativar as conexões para\xfffereceber Presentes Misteriosos.\xf000븀\x0000\xfffeQuer ativar as conexões?
+Sim
+Não
+Escolha como você quer receber\xfffeo seu presente.
+RECEBER POR WIRELESS
+RECEBER POR NINTENDO WFC
+RECEBER POR INFRAVERMELHO
+VOLTAR
 Please choose how you want to\xfffereceive your gift.
 Please throw away one card you no longer\xfffeneed to keep.\xf000븁\x0000
 You must throw away one card\xfffeto receive a Mystery Gift.\xf000븀\x0000\xfffeIs that OK?
