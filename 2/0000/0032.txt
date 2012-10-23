@@ -1,37 +1,37 @@
-OPTIONS
-TEXT SPEED
-BATTLE SCENE
-BATTLE STYLE
-SOUND
-CHARACTERS
+OPÇÕES
+VELOC. DO TEXTO
+ANIM. DE BATALHA 
+TIPO DE BATALHA
+SOM
+PERSONAGEM
     
-SAVE BEFORE IR
-CONFIRM
-QUIT
-SLOW
-MID
-FAST
-ON
-OFF
-SHIFT
-SET
-STEREO
+SALVAR IR
+SIM
+SAIR
+LENTO
+MÉDIO
+RÁPIDO
+VER
+NÃO VER
+TROCAR
+FIXO
+ESTÉREO
 MONO
     
     
     
     
-SAVE
-NO SAVE
-You can choose from three different\xfffetext-scrolling speeds.
-You can choose whether to view\xfffemove animations.
-You can choose to switch Pokémon\xfffewhen an opponent's Pokémon faints.
-You can choose the way the game sounds.
+SALVAR
+NÃO SALVAR
+Escolha entre os três níveis de\xfffevelocidade do texto.
+Ativar ou desativar as animações\xfffedurantes as batalhas.
+Configure as regras que serão\xfffeaplicadas durante as batalhas.
+Configure o som entre estéreo ou mono.
                        
                              
-You can choose to save the game\xfffebefore C-Gear launches infrared.
-You have saved data already.\xfffeYou cannot change this option.\xf000븁\x0000
-Would you like to make these changes?
-YES
-NO
+Ative ou desative a opção de salvar \xfffeantes do uso da conexão infravermelha.
+Já existe outros dados salvos.\xfffeNão pode alterar esta opção.\xf000븁\x0000
+Aplicar todas as alterações?
+SIM
+NÃO
         
