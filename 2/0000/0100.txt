@@ -10,71 +10,71 @@ RECEBER POR WIRELESS
 RECEBER POR NINTENDO WFC
 RECEBER POR INFRAVERMELHO
 VOLTAR
-Please choose how you want to\xfffereceive your gift.
-Please throw away one card you no longer\xfffeneed to keep.\xf000븁\x0000
-You must throw away one card\xfffeto receive a Mystery Gift.\xf000븀\x0000\xfffeIs that OK?
-Yes
-No
-DS Wireless Communications will\xfffebe launched.
-Yes
-No
-Connect to Nintendo Wi-Fi Connection?
-Yes
-No
-Infrared Communications will\xfffebe launched.\xf000븁\x0000\xfffePlease point your Nintendo Game Card\xfffeat the other person's Game Card\xf000븀\x0000\xfffeand press the A Button.\xf000븁\x0000
-Yes
-No
-Searching for a gift.\xfffePlease wait...
-Choose the gift you want to receive.
-Cancel receiving this gift?
-Yes
-No
-Receive this gift?
-Yes
-No
-Receiving your gift.\xfffeDon't turn off the power.
-The gift has been received!\xf000븁\x0000\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.\xf000븁\x0000
-Saving your Card Album...\xfffeDon't turn off the power.
-What would you like to do with this\xfffeWonder Card?
-Swap
-Trash
-Back
-This card cannot be thrown away because\xfffeyou have not received the gift yet.\xf000븁\x0000\xfffePlease pick up the gift from the\xfffedeliveryman in any Pokémon Center.\xf000븁\x0000
-The card has been thrown away.\xf000븁\x0000
-Please select a card to swap with.
-Is it OK to throw away this card?
-Yes
-No
-What would you like to know about?
-ABOUT MYSTERY GIFT
-ABOUT THE CARD ALBUM
-WHEN THE ALBUM IS FULL
-BACK
-INFO
-Mystery Gift allows you\xfffeto receive great gifts\xf000븀\x0000\xfffethrough various communication modes.\xf000븁\x0000\xfffeOnce you have received a gift,\xfffeplease go to any Pokémon Center and\xf000븀\x0000\xfffepick it up from the deliveryman.\xf000븁\x0000
-When you've received your Mystery Gift,\xfffeyour Wonder Card will be displayed\xf000븀\x0000\xfffein the Card Album.\xf000븁\x0000\xfffeYou can check the card to see\xfffeif you've picked up the gift\xf000븀\x0000\xfffefrom a deliveryman.\xf000븁\x0000\xfffeMake sure to pick up gifts\xfffethat are waiting for you.\xf000븁\x0000\xfffeThere is a limit to how many\xfffecards you can save in the Album.\xf000븁\x0000\xfffeYou can store up to 12 cards if you\xfffehave previously saved your game.\xf000븁\x0000\xfffeIf you don't have a saved game yet,\xfffeyou can store up to three cards.\xf000븁\x0000\xfffeWhen the card slots are full, you will not\xfffebe able to receive any more. Please delete\xf000븀\x0000\xfffesome from the Album.\xf000븁\x0000
+Escolha como você quer receber\xfffeo seu presente.
+Escolha um cartão que você não\xfffeprecisa mais para apagá-lo.\xf000븁\x0000
+Se você não apagar um cartão, não\xfffepoderá receber o seu presente.\xf000븀\x0000\xfffeTem certeza?
+Sim
+Não
+Conexão DS Wireless será\xfffeiniciada.
+Sim
+Não
+Conectar à Nintendo WFC?
+Sim
+Não
+Conexões infravermelhas serão\xfffeiniciadas.\xf000븁\x0000\xfffeColoque o seu Cartão de Jogo na\xfffefrente do Cartão de Jogo da outra\xf000븀\x0000\xfffepessoa e aperte o Botão A.\xf000븁\x0000
+Sim
+Não
+Procurando algum presente.\xfffeAguarde...
+Escolha o presente para recebê-lo.
+Cancelar o recebimento do presente?
+Sim
+Não
+Receber este presente?
+Sim
+Não
+Recebendo o seu presente.\xfffeNão desligue o console.
+O presente foi recebido!\xf000븁\x0000\xfffePegue seu presente com o entregador\xfffeem qualquer Centro Pokémon.\xf000븁\x0000
+Salvando o seu Album de Cartões...\xfffeNão desligue o console.
+O que você quer fazer com este\xfffeCartão Misterioso?
+Mover
+Apagar
+Voltar
+Você não pode excluir este cartão\xfffeporque ainda não foi recebido.\xf000븁\x0000\xfffePegue seu presente com o entregador\xfffeem qualquer Centro Pokémon.\xf000븁\x0000
+O cartão foi apagado.\xf000븁\x0000
+Escolha o cartão que você quer mover.
+Tem certeza que quer excluir o cartão?
+Sim
+Não
+Sobre o que você quer informação?
+SOBRE O PRESENTE MISTERIOSO
+SOBRE O ALBUM DE CARTÕES
+QUANDO O ALBUM FICA CHEIO
+VOLTAR
+INFORMAÇÕES
+O Presente Misterioso te permite\xfffeconseguir presentes por meio das\xf000븀\x0000\xfffeconexões do seu console.\xf000븁\x0000\xfffeUma vez que tenha recebido o presente\xfffemisteriso, você deve ir a um Centro\xf000븀\x0000\xfffePokémon e falar com o entregador.\xf000븁\x0000
+Cada vez que você receber um Presente\xfffeMisterioso, seu Cartão Misterioso será\xf000븀\x0000\xfffemostrado no seu Album de Cartões.\xf000븁\x0000\xfffeVocê pode examinar seu cartão para\xfffesaber se o presente já foi retirado\xf000븀\x0000\xfffecom o entregador.\xf000븁\x0000\xfffeCertifique-se de pegar os presentes\xfffeque estão esperando por você.\xf000븁\x0000\xfffeHá um limite de cartões que se pode\xfffearmazenar no Album de Cartões.\xf000븁\x0000\xfffeVocê pode guardar até 12 cartões se\xfffeo jogo já foi iniciado e salvo.\xf000븁\x0000\xfffeSe você não iniciou o jogo, só poderá\xfffearmazenar até três cartões.\xf000븁\x0000\xfffeQuando os espaços para os cartões\xfffeestiverem cheios, não será mais\xf000븀\x0000\xfffepossível receber outros presentes.\xf000븁\x0000
 When the Card Album is full,\xfffeyou cannot receive new cards.\xf000븁\x0000\xfffeTo receive new cards,\xfffechoose a Wonder Card and\xf000븀\x0000\xfffepress the A Button to throw it away.\xf000븁\x0000\xfffeIf you have gifts waiting,\xfffego to any Pokémon Center\xf000븁\x0000\xfffeand pick up your gifts\xfffefrom the deliveryman.\xf000븁\x0000
 When you've received a Mystery Gift,\xfffeyour Wonder Card will be displayed\xf000븀\x0000\xfffein the Card Album.\xf000븁\x0000\xfffeYou can check the card to see\xfffeif you've picked up the gift\xf000븀\x0000\xfffefrom a deliveryman.\xf000븁\x0000\xfffeMake sure to pick up gifts\xfffethat are waiting for you.\xf000븁\x0000\xfffeThere is a limit to how many\xfffecards you can save in the Album.\xf000븁\x0000\xfffeYou can store up to 12 cards if you have\xfffepreviously saved your game.\xf000븁\x0000\xfffeIf you don't have a saved game yet,\xfffeyou can store up to three cards.\xf000븁\x0000\xfffeWhen the card slots are full, you will not\xfffebe able to receive any more. Please delete\xf000븀\x0000\xfffesome from the Album.\xf000븁\x0000
-Communicating. Please stand by...
-Our deliveryman is currently overloaded\xfffewith gifts for you!\xf000븁\x0000\xfffePlease go see him at any Pokémon Center\xfffeand pick up your gifts.\xf000븁\x0000
-You've already received this gift.\xfffeYou may not get another one.\xf000븁\x0000
-There were no gifts to be found...\xf000븁\x0000
+Conectando. Aguarde...
+Nosso entregador está cheio de\xfffepresentes para você!\xf000븁\x0000\xfffeFale com ele em qualquer Centro\xfffePokémon para receber seus presentes.\xf000븁\x0000
+Você já recebeu este presente.\xfffeNão pode recebê-lo outra vez.\xf000븁\x0000
+Nenhum presente foi encontrado...\xf000븁\x0000
                     
-You are out of room for Wonder Cards.\xf000븁\x0000\xfffeYou may not accept another gift until you\xfffethrow away one or more Wonder Cards.
-Yes
-No
-There was a problem\xfffewith receiving the gift.\xf000븁\x0000
+Seu Album de Cartões está cheio.\xf000븁\x0000\xfffeNão é possível receber mais presentes.\xfffeQuer excluir algum Cartão Misterioso?
+Sim
+Não
+Não foi possível receber\xfffeo seu presente.\xf000븁\x0000
                                              
-You cannot receive any more gifts until\xfffeyou have a saved game.\xf000븀\x0000\xfffePlease start a new game and save it.\xf000븁\x0000
-CARD ALBUM
-A Button: Sort
-BACK
+Você não pode receber mais cartões\xfffeporque não há um jogo salvo.\xf000븀\x0000\xfffeInicie um novo jogo e salve.\xf000븁\x0000
+ALBUM DE CARTÕES
+Botão A: Ordenar
+VOLTAR
 \xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
-\xf000봃\x0001\x0000\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-Wonder Card
-Date received
-\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-A: Done
+\xf000봃\x0001\x0000\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/\xf000ȃ\x0001\x0000
+Cartões Misteriosos
+Recebido em
+\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/\xf000ȃ\x0001\x0000
+A: Terminar
     
 Thank you for coming to see\xfffethe Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 Thank you for coming to see\xfffethe 2010 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
@@ -208,130 +208,130 @@ Thank you for coming to the\xfffePOKÉPARK in 2017!\xfffePlease pick up your gif
 Thank you for coming to the\xfffePOKÉPARK in 2018!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 Thank you for coming to the\xfffePOKÉPARK in 2019!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 Thank you for coming to the\xfffePOKÉPARK in 2020!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
+Pegue o seu presente com o entregador\xfffeem qualquer Centro Pokémon.
 Thank you for coming\xfffeto see the Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
 Thank you for coming to see\xfffethe 2010 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
 Thank you for coming to see\xfffethe 2011 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
@@ -464,127 +464,127 @@ Thank you for coming to the\xfffePOKÉPARK in 2017!\xfffeYou have already picked
 Thank you for coming to the\xfffePOKÉPARK in 2018!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
 Thank you for coming to the\xfffePOKÉPARK in 2019!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
 Thank you for coming to the\xfffePOKÉPARK in 2020!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
+Você já pegou o seu presente\xfffecom o entregado.
