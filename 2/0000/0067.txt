@@ -1,97 +1,97 @@
 
-Key System
-SEND AND RECEIVE KEYS
-KEY SYSTEM SETTINGS
+Sistema Chave
+ENVIAR E RECEBER CHAVES
+CONFIGURAR CHAVES
        
-SET DIFFICULTY
-CHANGE CITY
-BACK
-EASY MODE
-NORMAL MODE
-CHALLENGE MODE
-BLACK CITY
-WHITE FOREST
-Keys Held
-Easy Key
-Challenge Key
-Tower Key
-Treehollow Key
-Send and receive keys with\xfffePokémon Black Version 2 or\xfffePokémon White Version 2.\xfffe\xfffeSending and receiving keys\xfffecan unlock Key System settings\xfffeand places on the map.
-Change game settings\xfffewith Keys.\xfffe\xfffeKeys can be obtained by proceeding\xfffethrough your adventure. You can also\xfffeunlock settings by trading Keys\xfffewith others.
-Return to the main menu.
-Launching Infrared Communications...\xfffeThe DS systems must face each other.
-Change the difficulty.\xfffeThe current mode is Easy Mode.\xfffePokémon battles with Trainers\xfffeare easier than normal.
-Change the difficulty.\xfffeThe current mode is Normal Mode.
-Change the difficulty.\xfffeThe current mode is Challenge Mode.\xfffePokémon battles with Trainers\xfffeare more difficult than normal.
-Swap White Forest and\xfffeBlack City.\xfffeThis area is currently Black City.
-Swap White Forest and\xfffeBlack City.\xfffeThe area is currently White Forest.
-Go back to the Key System's main menu.
-Go back to the Key System's main menu.
-Saving...\xfffeDon't turn off the power.
-Sending Key(s)...\xf000븂\x0001<
-Sent the Easy Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
-Sent the Challenge Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
-Sent the Treehollow Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
-Sent the Tower Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
-Sent the Iron Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
-Sent the Iceberg Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
-Sent the Easy Key.\xf000븂\x0001<
-Sent the Challenge Key.\xf000븂\x0001<
-Sent the Treehollow Key.\xf000븂\x0001<
-Sent the Tower Key.\xf000븂\x0001<
-Sent the Iron Key.\xf000븂\x0001<
-Sent the Iceberg Key.\xf000븂\x0001<
-Receiving Key(s)...\xf000븂\x0001<
-Easy Mode was unlocked by\xfffe\xf000Ā\x0001\x0000's Easy Key.\xf000븂\x0001<
-Challenge Mode was unlocked by\xfffe\xf000Ā\x0001\x0000's Challenge Key.\xf000븂\x0001<
-White Forest was unlocked by\xfffe\xf000Ā\x0001\x0000's Treehollow Key.\xf000븂\x0001<
-Black City was unlocked by\xfffe\xf000Ā\x0001\x0000's Tower Key.\xf000븂\x0001<
-Iron Chamber was unlocked by\xfffe\xf000Ā\x0001\x0000's Iron Key.\xf000븂\x0001<
-Iceberg Chamber was unlocked by\xfffe\xf000Ā\x0001\x0000's Iceberg Key.\xf000븂\x0001<
-Easy Mode was unlocked\xfffeby someone's Easy Key.\xf000븂\x0001<
-Challenge Mode was unlocked\xfffeby someone's Challenge Key.\xf000븂\x0001<
-White Forest was unlocked\xfffeby someone's Treehollow Key.\xf000븂\x0001<
-Black City was unlocked\xfffeby someone's Tower Key.\xf000븂\x0001<
-Iron Chamber was unlocked\xfffeby someone's Iron Key.\xf000븂\x0001<
-Iceberg Chamber was unlocked\xfffeby someone's Iceberg Key.\xf000븂\x0001<
-Writing to the saved game file\xfffeis complete.\xf000븁\x0000
-Sending and receiving of Keys\xfffehas completed.\xf000븁\x0000
-There are no Keys\xfffeyou can send.\xf000븂\x0001<
-There are no Keys\xfffeyou can receive.\xf000븂\x0001<
-Communicating...\xfffePlease stand by.
-You cannot select this item until\xfffeit's been unlocked with the Easy Key.
-You cannot select this item until\xfffeit's been unlocked with the Challenge Key.
-You cannot select this item until\xfffeit's been unlocked with the Treehollow Key.
-You cannot select this item until\xfffeit's been unlocked with the Tower Key.
-YES
-NO
-Would you like to launch\xfffeInfrared Communication and\xf000븀\x0000\xfffeDS Wireless Communications?
-You are currently in that area,\xfffeso the settings cannot be changed.
-KEY SYSTEM
-MEMORY LINK
-BACK
-Communicate with Pokémon Black Version 2\xfffeor Pokémon White Version 2, and\xfffesend and receive Keys.
-Link with a saved game file from Pokémon\xfffeBlack Version or Pokémon White Version.
-Receive research data from the\xfffeNintendo 3DS download software\xfffePokémon Dream Radar.\xfffe\xfffeThe Pokémon and items that are\xfffereceived will be sent directly to\xfffethe PC Box or to the Bag.
-Return to the title screen.
-Memory Link
-LINK VIA DS WIRELESS COMMUNICATIONS
-LINK VIA NINTENDO WFC
-BACK
-Link to the saved game file by\xfffeusing two Nintendo DS systems.
-Use the Nintendo WFC and link to the\xfffesaved game file using Pokémon Global Link.\xfffe\xfffeIt's recommended that you link\xfffeafter tucking in a Pokémon\xfffein Pokémon Black Version\xfffeor Pokémon White Version\xfffeso it is the newest version\xfffeof the saved game file.
-Check the content of the memories\xfffethat will occur due to the Memory Link.
-Return to the main menu.
-Main Menu
-The Easy Key opened\xfffethe lock.\xf000븁\x0000\xfffeEasy Mode can now\xfffebe selected.\xf000븁\x0000
-The Challenge Key opened\xfffethe lock.\xf000븁\x0000\xfffeChallenge Mode can now\xfffebe selected.\xf000븁\x0000
-The Treehollow Key opened\xfffethe lock.\xf000븁\x0000\xfffeWhite Forest can now be selected\xfffein Change City.\xf000븁\x0000
-The Tower Key opened\xfffethe lock.\xf000븁\x0000\xfffeBlack City can now be selected\xfffein Change City.\xf000븁\x0000
-Obtained the Easy Key.\xf000븁\x0000\xfffeEasy Mode can now\xfffebe selected.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
-Obtained the Challenge Key.\xf000븁\x0000\xfffeChallenge Mode can now\xfffebe selected.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
-Obtained the Treehollow Key.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
-Obtained the Tower Key.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
-MEMORY LIST
+TROCAR MODO
+ALTERAR CIDADE
+VOLTAR
+MODO FÁCIL
+MODO NORMAL
+MODO DESAFIO
+CIDADE PRETA
+FLORESTA BRANCA
+Chaves Obtidas
+Chave Fácil
+Chave Desafio
+Chave Torre
+Chave Árvore
+Enviar e receber chaves com\xfffePokémon Black Version 2 ou\xfffePokémon White Version 2.\xfffe\xfffeEnviar e receber chaves te permitirá\xfffedesbloquear novas opções do jogo e\xfffelugares no mapa.
+Pode alterar os modos do jogo\xfffecom as sua Chaves.\xfffe\xfffeAs chaves podem ser obtidas\xfffedurante a aventura ou trocadas\xfffecom outros jogadores.\xfffe
+Voltar ao menu principal.
+Iniciando conexão Infravermelha...\xfffeAlinhe o seu console com o outro.
+Altere a dificuldade do jogo.\xfffeAtualmente no Modo Fácil.\xfffeAs batalhas contra os treinadores\xfffee Pokémon serão mais fáceis.
+Altere a dificuldade do jogo.\xfffeAtualmente no Modo Normal.
+Altere a dificuldade do jogo.\xfffeAtualmente no Modo Desafio.\xfffeAs batalhas contra os treinadores\xfffee Pokémon serão mais difíceis.
+Pode trocar entre a Floresta Branca\xfffee a Cidade Preta. No momento, esta\xfffeárea é a Cidade Preta.
+Pode trocar entre a Floresta Branca\xfffee a Cidade Preta. No momento, esta\xfffeárea é a Floresta Branca.
+Voltar ao menu do Sistema Chave.
+Voltar ao menu do Sistema Chave.
+Salvando...\xfffeNão desligue o console.
+Enviando Chave(s)...\xf000븂\x0001<
+Enviou Chave Fácil para \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Enviou Chave Desafio para \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Enviando Chave Árvore para \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Enviou Chave Torre para \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Enviou Chave Ferro para \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Enviou Chave Iceberg para \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Enviou Chave Fácil.\xf000븂\x0001<
+Enviou Chave Desafio.\xf000븂\x0001<
+Enviando Chave Árvore.\xf000븂\x0001<
+Enviou Chave Torre.\xf000븂\x0001<
+Enviou Chave Ferro.\xf000븂\x0001<
+Enviou Chave Iceberg.\xf000븂\x0001<
+Recebendo Chave(s)...\xf000븂\x0001<
+Desbloqueou o Modo Fácil graças\xfffea Chave Fácil de \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Desbloqueou o Modo Desafio graças\xfffea Chave Desafio de \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Desbloqueou a Floresta Branca graças\xfffea Chave Árvore de \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Desbloqueou o Cidade Preta graças\xfffea Chave Torre de \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Desbloqueou o Sala Ferro graças\xfffea Chave Ferro de \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Desbloqueou o Sala Iceberg graças\xfffea Chave Iceberg de \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Desbloqueou o Modo Fácil graças\xfffea Chave Fácil de alguém.\xf000븂\x0001<
+Desbloqueou o Modo Desafio graças\xfffea Chave Desafio de alguém.\xf000븂\x0001<
+Desbloqueou a Floresta Branca graças\xfffea Chave Árvore de alguém.\xf000븂\x0001<
+Desbloqueou o Cidade Preta graças\xfffea Chave Torre de alguém.\xf000븂\x0001<
+Desbloqueou o Sala Ferro graças\xfffea Chave Ferro de alguém.\xf000븂\x0001<
+Desbloqueou o Sala Iceberg graças\xfffea Chave Iceberg de alguém.\xf000븂\x0001<
+Todos os dados salvos foram\xfffeguardados.\xf000븁\x0000
+A troca de Chaves foi completada\xfffecom sucesso.\xf000븁\x0000
+Não há Chaves para\xfffevocê enviar.\xf000븂\x0001<
+Não há Chaves para\xfffevocê receber.\xf000븂\x0001<
+Conectando...\xfffeAguarde alguns segundos.
+Você precisa possuir a Chave Fácil\xfffepara selecionar esta opção.
+Você precisa possuir a Chave Desafio\xfffepara selecionar esta opção.
+Você precisa possuir a Chave Árvore\xfffepara selecionar esta opção.
+Você precisa possuir a Chave Ferro\xfffepara selecionar esta opção.
+SIM
+NÃO
+Você quer ativar a conexão\xfffeInfravermelha e a conexão\xf000븀\x0000\xfffeDS Wireless?
+Você não pode alterar esta\xfffeconfiguração neste momento.
+SISTEMA CHAVE
+CONEXÃO MEMÓRIA
+VOLTAR
+Conecte com Pokémon Black Version 2\xfffeou Pokémon White Version 2, para\xfffeenviar e receber Chaves.
+Pode receber os dados salvos de Pokémon\xfffeBlack Version ou Pokémon White Version.
+Receba os dados registrados de\xfffeNintendo 3DS download software\xfffePokémon Dream Radar.\xfffe\xfffeOs Pokémon e itens recebidos serão\xfffeenviados diretamente a uma Caixa no\xfffePC ou para a sua Mochila.
+Voltar ao menu de títulos.
+Conexão Memória
+RECEBER POR CONEXÃO DS WIRELESS
+RECEBER POR NINTENDO WFC
+VOLTAR
+Receber os dados salvos usando\xfffedois consoles Nintendo DS.
+Receber os dados salvos de Pokémon\xfffeGlobal Link usando Nintendo WFC.\xfffe\xfffeÉ recomendado que você conecte\xfffeapós acordar um Pokémon em\xfffePokémon Black Version ou\xfffePokémon White Version para\xfffeobter os dados salvos mais\xffferecentes.
+Permite verificar o conteúdo das\xfffememórias devido à Conexão Memória.
+Voltar ao menu principal.
+Menu Principal
+Você desbloqueou esta opção\xfffecom a Chave Fácil.\xf000븁\x0000\xfffeO Modo Fácil pode ser\xfffeselecionado agora.\xf000븁\x0000
+Você desbloqueou esta opção\xfffecom a Chave Desafio.\xf000븁\x0000\xfffeO Modo Desafio pode\xfffeser selecionado agora.\xf000븁\x0000
+Você desbloqueou esta opção\xfffecom a Chave Árvore.\xf000븁\x0000\xfffeA Floresta Branca pode ser\xfffeselecionada em Alterar Cidade.\xf000븁\x0000
+Você desbloqueou esta opção\xfffecom a Chave Torre.\xf000븁\x0000\xfffeA Cidade Preta pode ser\xfffeselecionada em Alterar Cidade.\xf000븁\x0000
+Recebeu a Chave Fácil.\xf000븁\x0000\xfffeO Modo Fácil pode ser\xfffeselecionado agora.\xf000븁\x0000\xfffeVocê pode trocar chaves\xfffecom outros jogadores para\xf000븀\x0000\xfffedesbloquear novas opções\xf000븀\x0000\xfffee localizações no mapa.\xf000븁\x0000
+Recebeu a Chave Desafio.\xf000븁\x0000\xfffeO Modo Desafio pode\xfffeser selecionado agora.\xf000븁\x0000\xfffeVocê pode trocar chaves\xfffecom outros jogadores para\xf000븀\x0000\xfffedesbloquear novas opções\xf000븀\x0000\xfffee localizações no mapa.\xf000븁\x0000
+Recebeu a Chave Árvore.\xf000븁\x0000\xfffeVocê pode trocar chaves\xfffecom outros jogadores para\xf000븀\x0000\xfffedesbloquear novas opções\xf000븀\x0000\xfffee localizações no mapa.\xf000븁\x0000
+Recebeu a Chave Torre.\xf000븁\x0000\xfffeVocê pode trocar chaves\xfffecom outros jogadores para\xf000븀\x0000\xfffedesbloquear novas opções\xf000븀\x0000\xfffee localizações no mapa.\xf000븁\x0000
+LISTA DE MEMÓRIAS
 Change what lies beyond the mysterious\xfffegate in the Underground Ruins.\xfffeCurrently, the gate leads to\xfffethe Rock Peak Chamber.
 Change what lies beyond the mysterious\xfffegate in the Underground Ruins.\xfffeCurrently, the gate leads to\xfffethe Iron Chamber.
 Change what lies beyond the mysterious\xfffegate in the Underground Ruins.\xfffeCurrently, the gate leads to\xfffethe Iceberg Chamber.
